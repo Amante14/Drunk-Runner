@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Drunk Runner.data.unityweb",
+"asmCodeUrl": "Drunk Runner.asm.code.unityweb",
+"asmMemoryUrl": "Drunk Runner.asm.memory.unityweb",
+"asmFrameworkUrl": "Drunk Runner.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
